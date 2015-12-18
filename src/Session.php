@@ -2,9 +2,9 @@
 
 /**
  * Class Session
- *
- * @author Yuta Fujishiro <fujishiro@amaneku.co.jp>
  */
+namespace Yutaf;
+
 class Session
 {
     /**
